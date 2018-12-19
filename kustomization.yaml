@@ -1,0 +1,9 @@
+# These bases cause a conflict, though they only import the bases listed below
+bases:
+  - overlay_a
+  - overlay_b
+
+# # These bases work fine
+# bases:
+#   - overlay_1
+#   - overlay_2
